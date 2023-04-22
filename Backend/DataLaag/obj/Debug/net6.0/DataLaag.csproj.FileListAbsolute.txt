@@ -1,0 +1,14 @@
+C:\Users\riche\source\repos\FullStack\DataLaag\bin\Debug\net6.0\DataLaag.deps.json
+C:\Users\riche\source\repos\FullStack\DataLaag\bin\Debug\net6.0\DataLaag.dll
+C:\Users\riche\source\repos\FullStack\DataLaag\bin\Debug\net6.0\DataLaag.pdb
+C:\Users\riche\source\repos\FullStack\DataLaag\obj\Debug\net6.0\DataLaag.csproj.AssemblyReference.cache
+C:\Users\riche\source\repos\FullStack\DataLaag\obj\Debug\net6.0\DataLaag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riche\source\repos\FullStack\DataLaag\obj\Debug\net6.0\DataLaag.AssemblyInfoInputs.cache
+C:\Users\riche\source\repos\FullStack\DataLaag\obj\Debug\net6.0\DataLaag.AssemblyInfo.cs
+C:\Users\riche\source\repos\FullStack\DataLaag\obj\Debug\net6.0\DataLaag.csproj.CoreCompileInputs.cache
+C:\Users\riche\source\repos\FullStack\DataLaag\obj\Debug\net6.0\DataLaag.dll
+C:\Users\riche\source\repos\FullStack\DataLaag\obj\Debug\net6.0\refint\DataLaag.dll
+C:\Users\riche\source\repos\FullStack\DataLaag\obj\Debug\net6.0\DataLaag.pdb
+C:\Users\riche\source\repos\FullStack\DataLaag\obj\Debug\net6.0\ref\DataLaag.dll
+C:\Users\riche\source\repos\FullStack\DataLaag\bin\Debug\net6.0\DataLaag.runtimeconfig.json
+C:\Users\riche\source\repos\FullStack\DataLaag\obj\Debug\net6.0\DataLaag.genruntimeconfig.cache
